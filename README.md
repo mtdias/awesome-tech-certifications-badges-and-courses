@@ -40,6 +40,12 @@ A curated list of free and paid certifications, badges and courses
 | --- | --- | --- | --- | --- | --- |
 | Gitlab Certification | Gitlab | -- | [Link](https://about.gitlab.com/learn/) | -- | -- |
 
+## Product Management
+
+| Subject / Technology | Provider | Title | Link | Type | Price
+| --- | --- | --- | --- | --- | --- |
+| General Content | Product Management | PM3 | [Link](https://about.gitlab.com/learn/) | -- | -- |
+
 
 ## Financial Services
 
