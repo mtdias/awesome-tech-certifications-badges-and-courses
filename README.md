@@ -3,34 +3,41 @@ A curated list of free and paid certifications, badges and courses
 
 ## Cloud
 
-* AWS 
-* Azure
-* Google Cloud
-* Oracle Cloud Infrastructure (OCI)
-* IBM Cloud
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
+| OCI | Oracle | Oracle Cloud Infrastructure, Oracle Cloud Infrastructure, Oracle Cloud Infrastructure | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | Sept 30, 2023 | Unknown | Unknown |
+
 
 ## Generative AI, Data, Data Warehouse
 
-* IBM
-* IBM
-* Databricks
-* Databricks
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
+| Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited | Unknown | Unknown |
 
 ## Design Thinking
 
-* IBM
-* IBM
-* IBM
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
 
 ## Agile
 
-* Scrum Alliance
-* Adaptworks
-* 
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
 
 ## Security
 
-* IBM
-* Cisco
-* CompTIA+
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
+
+## Code Repo
+
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
+| Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown | Unknown | Unknown |
+
+
+## Financial Services
+
+| Technology | Provider | Description | Link | Expiration | Type | Cost
+| --- | --- | --- | --- | --- | --- | --- |
 
