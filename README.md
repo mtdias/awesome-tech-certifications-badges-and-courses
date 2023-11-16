@@ -38,7 +38,7 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price
 | --- | --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | -- | [Link](https://about.gitlab.com/learn/) | -- | -- |
+| Gitlab Certification | Gitlab | -- | -- | -- | -- |
 
 ## Product Management
 
