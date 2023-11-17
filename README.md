@@ -1,7 +1,7 @@
 # List of Certifications, Badges and Courses
 A curated list of free and paid certifications, badges and courses
 
-## For Technology courses
+## Technology 
 
 ### Cloud
 
@@ -72,7 +72,7 @@ A curated list of free and paid certifications, badges and courses
 | ITIL | ITIL Foundation | ITIL Foundationais V3 | -- | Certification | Paid | --- |
 
 
-## For Product management, Business Analysis and Design
+## Product management, Business Analysis and Design
 
 ### Product Management
 
@@ -96,7 +96,7 @@ A curated list of free and paid certifications, badges and courses
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 
-## For business segments - Specific content
+## Business segments - Specific content
 
 ### Financial Services and Banking
 
