@@ -1,14 +1,15 @@
 # List of Certifications, Badges and Courses
 A curated list of free and paid certifications, badges and courses
 
-## Technology 
+## Technologies 
 
 ### Cloud
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Oracle Cloud Infrastructure (OCI) | Oracle | -- | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | -- | Certification | Free | --- |
-| Cloud | IBM | Cloud Computing Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Badge | Free | --- |
+| Oracle Cloud Infrastructure (OCI) | Oracle | -- | -- | -- | Certification | Free | --- |
+| Cloud Basics | IBM | Cloud Computing Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Badge | Free | --- |
+| AWS | AWS | -- | -- | -- | -- | --- |
 
 ### Generative AI, Data, Data Warehouse
 
@@ -41,7 +42,7 @@ A curated list of free and paid certifications, badges and courses
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 
-## For IT Methodologies
+## IT Methodologies
 
 
 ### Agile
