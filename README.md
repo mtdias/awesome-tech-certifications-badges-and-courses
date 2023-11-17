@@ -78,7 +78,7 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| General Content | Product Management | PM3 | -- | Course | Paid | --- |
+| General Content | Product Management | PM3 | -- | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
 
 ### Business Analysis
 
@@ -102,15 +102,15 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Brazilian Rules | CPA | CPA-10 | -- | Certification | Paid | --- |
-| Brazilian Rules | CPA | CPA-20 | -- | Certification | Paid | --- |
+| Brazilian Rules | CPA | CPA-10 | -- | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| Brazilian Rules | CPA | CPA-20 | -- | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
 
 ### Insurance
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Brazilian Rules | CPA | CPA-10 | -- | Certification | Paid | --- |
-| Brazilian Rules | CPA | CPA-20 | -- | Certification | Paid | --- |
+| -- | -- | -- | -- | -- | -- | --- |
+| -- | -- | -- | -- | -- | -- | --- |
 
 ## Platforms with multiple contents
 
@@ -118,4 +118,4 @@ A curated list of free and paid certifications, badges and courses
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | --- | MIT | --- | --- | --- | --- | --- | --- |
 | --- | Stanford | --- | --- | --- | --- | --- | --- |
-| --- | Alura | --- | --- | --- | --- | --- | --- |
+| --- | Alura | --- | --- | --- | --- | --- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> | 
