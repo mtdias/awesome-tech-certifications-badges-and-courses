@@ -1,16 +1,16 @@
 # List of Certifications, Badges and Courses
 A curated list of free and paid certifications, badges and courses
 
-# Technology courses
+## For Technology courses
 
-## Cloud
+### Cloud
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | Oracle Cloud Infrastructure (OCI) | Oracle | -- | [Link](https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure) | -- | Certification | Free | --- |
-| Cloud | IBM | Cloud Computing Fundamentals | [Link]([https://education.oracle.com/oracle-oci-certification#oracle-cloud-infrastructure](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3)) | Badge | Free | --- |
+| Cloud | IBM | Cloud Computing Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Badge | Free | --- |
 
-## Generative AI, Data, Data Warehouse
+### Generative AI, Data, Data Warehouse
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,7 +18,33 @@ A curated list of free and paid certifications, badges and courses
 | Machine Learning | freeCodeCamp | Machine Learning with Python | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | -- | -- | Free | --- |
 | Artificial Intelligence | IBM | Artificial Intelligence Fundamentals | --- | Badge | Free | --- |
 
-## Agile
+### Security
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
+| General content | IBM | --- | --- | Badge | --- | --- |
+
+### Code Repo
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
+| Gitlab Certification | Gitlab | -- | -- | -- | Paid | --- |
+
+### IT Fundamentals
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
+| IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Paid | --- |
+
+### IoT
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
+
+## For IT Methodologies
+
+
+### Agile
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
@@ -33,77 +59,63 @@ A curated list of free and paid certifications, badges and courses
 | Product Owner | Scrum.org | PSPO I - Professional Product Owner | --- | Certification | Paid | --- |
 | Product Owner | Scrum.org | PSPO II - Professional Product Owner | --- | Certification | Paid | --- |
 
-## Security
+### Architecture
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| General content | IBM | --- | --- | Badge | --- | --- |
+| TOGAF | TOGAF | -- | -- | Certification | Paid | --- |
 
-## Code Repo
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | -- | -- | -- | Paid | --- |
-
-## Architecture
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-| TOGAF | TOGAF | PM3 | -- | Certification | Paid | --- |
-
-## Miscellaneous methodologies for IT
+### Miscellaneous methodologies for IT
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | ITIL | ITIL Foundation | ITIL Foundationais V3 | -- | Certification | Paid | --- |
 
-## IT Fundamentals
 
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-| IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Paid | --- |
+## For Product management, Business Analysis and Design
 
-## IoT
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-
-# For Product management, Business Analysis and Design
-
-## Product Management
+### Product Management
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | General Content | Product Management | PM3 | -- | Course | Paid | --- |
 
-## Business Analysis
+### Business Analysis
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 
-## Design Thinking
+### Design Thinking
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | Design Thinking | IBM | --- | --- | Badge | Free | --- |
 
-## Product Design and UX/UI
+### Product Design and UX/UI
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 
-# For business segments - Specific content
+## For business segments - Specific content
 
-## Financial Services and Banking
+### Financial Services and Banking
 
-| Subject / Technology | Provider | Title | Link | Expiration | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
 | Brazilian Rules | CPA | CPA-10 | -- | Certification | Paid | --- |
 | Brazilian Rules | CPA | CPA-20 | -- | Certification | Paid | --- |
 
-## Insurance
+### Insurance
 
-| Subject / Technology | Provider | Title | Link | Expiration | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
 | Brazilian Rules | CPA | CPA-10 | -- | Certification | Paid | --- |
 | Brazilian Rules | CPA | CPA-20 | -- | Certification | Paid | --- |
+
+## Platforms with multiple contents
+
+| Subjects / Technologies | Provider | Title | Link | Expiration | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | MIT | --- | --- | --- | --- | --- | --- |
+| --- | Stanford | --- | --- | --- | --- | --- | --- |
+| --- | Alura | --- | --- | --- | --- | --- | --- |
