@@ -12,6 +12,10 @@ A curated list of free and paid certifications, badges and courses
 | --- | --- | --- | --- | --- | --- | --- |
 | Oracle Cloud Infrastructure (OCI) | Oracle | OCI Foundations Associate | [Link](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2023/) | Certification | Free | --- |
 | Cloud Basics | IBM | Cloud Computing Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Badge | Free | --- |
+| Google Cloud | Google | GCP Cloud Engineer | [Link](https://cloud.google.com/certification/cloud-architect) | Certification | Paid | --- |
+| Google Cloud | Google | GCP Cloud Architect | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Certification | Paid | --- |
+| Google Cloud | Google | GCP Cloud Developer | [Link](https://cloud.google.com/certification/cloud-developer) | Certification | Paid | --- |
+| Google Cloud | Google | GCP Cloud Security Engineer | [Link](https://cloud.google.com/certification/cloud-security-engineer) | Certification | Paid | --- |
 
 ### DATA and AI related content
 
@@ -34,19 +38,18 @@ A curated list of free and paid certifications, badges and courses
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | Gitlab | Gitlab | GitLab Learn | [Link](https://about.gitlab.com/learn/)  | Multiple Courses | Paid Subscription | --- |
-| Github | GitHub | Github Foundations | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
-| Github | GitHub | Github Actions | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
-| Github | GitHub | GitHub | Github Advanced Security | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
-| Github | GitHub | Github Administration | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | Github Foundations | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | Github Actions | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | Github Advanced Security | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | Github Administration | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
 
 ### IT Fundamentals
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Free | --- |
-| --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
+| JIRA | Atlassian | Multiple free courses | [Link](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&page=2) | Courses | Free | --- |
+| Confluence | Atlassian | Multiple free courses | [Link](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&page=2) | Courses | Free | --- |
 
 ## Development Languages
 
@@ -60,27 +63,29 @@ A curated list of free and paid certifications, badges and courses
 | ASP.NET | Microsoft | -- | -- | -- | -- | -- |
 | Ruby | -- | -- | -- | -- | -- | -- |
 | Javascript | -- | -- | -- | -- | -- | -- |
-| ReactJS | -- | -- | -- | -- | -- | -- |
+| ReactJS | React | Multiple courses | [Link](https://legacy.reactjs.org/community/courses.html) | Courses | Free and Paid | -- |
 | React Native | -- | -- | -- | -- | -- | -- |
 | Angular | -- | -- | -- | -- | -- | -- |
 
 
-## IT Methodologies
+## Methodologies
 
 ### Agile
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Scrum Master | Scrum Alliance | CSM - Certified Scrum Master | --- | Certification | Paid | --- |
-| Product Owner | Scrum Alliance | CSPO - Certified Scrum Product Owner | -- | Certification | Paid | --- |
-| Developer | Scrum Alliance | CSD - Certified Scrum Developer | --- | Certification | Paid | --- |
-| Scrum Master | Scrum Alliance | ACSM - Advanced Certified Scrum Developer | --- | Certification | Paid | --- |
-| Product Owner | Scrum Alliance | ACSPO - Advanced Certified Scrum Product Owner | --- | Certification | Paid | --- |
-| Agile | Scrum Alliance | ACSPO - Advanced Certified Scrum Developer | --- | Certification | Paid | --- |
-| Scrum Master | Scrum.org | PSM I - Professional Scrum Master | --- | Certification | Paid | --- |
-| Scrum Master | Scrum.org | PSM II - Professional Scrum Master | --- | Certification | Paid | --- |
-| Product Owner | Scrum.org | PSPO I - Professional Product Owner | --- | Certification | Paid | --- |
-| Product Owner | Scrum.org | PSPO II - Professional Product Owner | --- | Certification | Paid | --- |
+| Scrum Master | Scrum Alliance | CSM - Certified Scrum Master | [Link](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) | Certification | Paid | --- |
+| Product Owner | Scrum Alliance | CSPO - Certified Scrum Product Owner | [Link](https://www.scrumalliance.org/get-certified/product-owner-track/certified-scrum-product-owner) | Certification | Paid | --- |
+| Developer | Scrum Alliance | CSD - Certified Scrum Developer | [Link](https://www.scrumalliance.org/get-certified/developer-track/certified-scrum-professional-for-developers) | Certification | Paid | --- |
+| Scrum Master | Scrum Alliance | A-CSM: Advanced Certified Scrum Master | [Link](https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster) | Certification | Paid | --- |
+| Product Owner | Scrum Alliance | A-CSPO: Advanced Certified Scrum Product Owner | [Link](https://www.scrumalliance.org/get-certified/product-owner-track/advanced-certified-scrum-product-owner) | Certification | Paid | --- |
+| Agile | Scrum Alliance | A-CSPO: Advanced Certified Scrum Developer | [Link](https://www.scrumalliance.org/get-certified/developer-track/advanced-certified-scrum-developer) | Certification | Paid | --- |
+| Scrum Master | Scrum.org | PSM I - Professional Scrum Master I | [Link](https://www.scrum.org/assessments/professional-scrum-master-i-certification) | Certification | Paid ($200) | --- |
+| Scrum Master | Scrum.org | PSM II - Professional Scrum Master II  | [Link](https://www.scrum.org/assessments/professional-scrum-master-ii-certification) | Certification | Paid ($250) | --- |
+| Scrum Master | Scrum.org | PSM III - Professional Scrum Master III  | [Link](https://www.scrum.org/assessments/professional-scrum-master-iii-certification) | Certification | Paid ($500) | --- |
+| Product Owner | Scrum.org | PSPO I - Professional Product Owner I | [Link](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) | Certification | Paid ($200) | --- |
+| Product Owner | Scrum.org | PSPO II - Professional Product Owner II | [Link](https://www.scrum.org/assessments/professional-scrum-product-owner-ii-assessment) | Certification | Paid ($250) | --- |
+| Product Owner | Scrum.org | PSPO III - Professional Product Owner III | [Link](https://www.scrum.org/assessments/professional-scrum-product-owner-iii-assessment) | Certification | Paid ($500) | --- |
 
 ### Miscellaneous methodologies for IT
 
@@ -98,12 +103,12 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| General Content | Product Management | PM3 | -- | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-
-### Business Analysis
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
+| General Content | PM3 | Product Management |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| General Content | PM3 | Product Discovery |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| General Content | PM3 | Product Analytics |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| General Content | PM3 | Product Marketing |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| General Content | PM3 | Product Growth |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| General Content | PM3 | Product Leadership | [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
 
 ### Design Thinking
 
@@ -111,24 +116,15 @@ A curated list of free and paid certifications, badges and courses
 | --- | --- | --- | --- | --- | --- | --- |
 | Design Thinking | IBM | --- | --- | Badge | Free | --- |
 
-### Product Design and UX/UI
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-
-
-
 ## Platforms with multiple contents
 
 | Subjects / Technologies | Provider | Link | Languages
 | --- | --- | --- | --- 
 | Miscellaneous | MIT Open Learning | [Link](https://openlearning.mit.edu/) | --- 
 | Miscellaneous | Stanford Online | [Link](https://online.stanford.edu/free-courses) | --- 
-| Technology | IBM Skills Bud | [Link](https://skills.yourlearning.ibm.com/) | ---
-| Google | Google Training | --- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
-| Technology | Alura | --- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
-
-
+| Technologies | IBM Skills Bud | [Link](https://skills.yourlearning.ibm.com/) | ---
+| Google | Google Training | -- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
+| Technologies | Alura | [Link](https://www.alura.com.br/) | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
 
 ## Business segments - Specific content
 
