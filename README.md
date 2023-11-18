@@ -2,29 +2,30 @@
 
 A curated list of free and paid certifications, badges and courses
 
+
+
 ## Technologies 
 
 ### Cloud
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Oracle Cloud Infrastructure (OCI) | Oracle | -- | -- | -- | Certification | Free | --- |
+| Oracle Cloud Infrastructure (OCI) | Oracle | OCI Foundations Associate | [Link](https://mylearn.oracle.com/ou/learning-path/become-an-oci-ai-foundations-associate-2023/) | Certification | Free | --- |
 | Cloud Basics | IBM | Cloud Computing Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Badge | Free | --- |
-| AWS | AWS | -- | -- | -- | -- | --- |
 
-### Generative AI, Data, Data Warehouse
+### DATA and AI related content
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Oracle Cloud Infrastructure (OCI) | Oracle | -- | -- | -- | Certification | Free |
-| Machine Learning | freeCodeCamp | Machine Learning with Python | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | -- | -- | Free | --- |
+| Oracle Cloud Infrastructure (OCI) | Oracle | Oracle Cloud Infrastructure AI Foundations | [Link](https://mylearn.oracle.com/ou/course/oracle-cloud-infrastructure-ai-foundations/) | Certification | Free | -- |
+| Machine Learning | freeCodeCamp | Machine Learning with Python | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Course | Free | --- |
 | Artificial Intelligence | IBM | Artificial Intelligence Fundamentals | --- | Badge | Free | --- |
 
 ### Security
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| General content | IBM | --- | --- | Badge | --- | --- |
+| General content | IBM | Security Fundamentals | [Link](https://bundles.yourlearning.ibm.com/skills/cybersecurity-fundamentals/#) | Badge | Free | --- |
 
 ### Code Repo
 
@@ -36,12 +37,9 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Paid | --- |
+| IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Free | --- |
 
-### IoT
 
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
 
 ## IT Methodologies
 
@@ -61,17 +59,14 @@ A curated list of free and paid certifications, badges and courses
 | Product Owner | Scrum.org | PSPO I - Professional Product Owner | --- | Certification | Paid | --- |
 | Product Owner | Scrum.org | PSPO II - Professional Product Owner | --- | Certification | Paid | --- |
 
-### Architecture
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-| TOGAF | TOGAF | -- | -- | Certification | Paid | --- |
-
 ### Miscellaneous methodologies for IT
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | ITIL | ITIL Foundation | ITIL Foundationais V3 | -- | Certification | Paid | --- |
+| TOGAF | The Open Group | TOGAF® 9 Certification | [Link](https://www.opengroup.org/togaf) | Certification | Paid | --- |
+
+
 
 
 ## Product management, Business Analysis and Design
@@ -98,26 +93,27 @@ A curated list of free and paid certifications, badges and courses
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 
+
+
+## Platforms with multiple contents
+
+| Subjects / Technologies | Provider | Link | Languages
+| --- | --- | --- | --- 
+| Miscellaneous | MIT Open Learning | [Link](https://openlearning.mit.edu/) | --- 
+| Miscellaneous | Stanford Online | [Link](https://online.stanford.edu/free-courses) | --- 
+| Technology | IBM Skills Bud | [Link](https://skills.yourlearning.ibm.com/) | ---
+| Google | Google Training | --- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
+| Technology | Alura | --- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
+
+
+
 ## Business segments - Specific content
 
 ### Financial Services and Banking
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Brazilian Rules | CPA | CPA-10 | -- | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| Brazilian Rules | CPA | CPA-20 | -- | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| Brazilian Certification | ANBIMA | CPA-10 (Certificação Profissional ANBIMA Série 10) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-10.htm) | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| Brazilian Certification | ANBIMA | CPA-20 (Certificação Profissional ANBIMA Série 20) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-20.htm) | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
 
-### Insurance
 
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-| -- | -- | -- | -- | -- | -- | --- |
-| -- | -- | -- | -- | -- | -- | --- |
-
-## Platforms with multiple contents
-
-| Subjects / Technologies | Provider | Title | Link | Expiration | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | MIT | --- | --- | --- | --- | --- | --- |
-| --- | Stanford | --- | --- | --- | --- | --- | --- |
-| --- | Alura | --- | --- | --- | --- | --- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> | 
