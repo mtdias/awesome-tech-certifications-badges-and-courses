@@ -39,16 +39,6 @@ A curated list of free and paid certifications, badges and courses
 | Github | GitHub | GitHub | Github Advanced Security | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
 | Github | GitHub | Github Administration | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
 
-### QA
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages
-
-
-### Acessibility
-
-| Subject / Technology | Provider | Title | Link | Type | Price | Languages 
-
-
 ### IT Fundamentals
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
