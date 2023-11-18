@@ -26,23 +26,56 @@ A curated list of free and paid certifications, badges and courses
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | General content | IBM | Security Fundamentals | [Link](https://bundles.yourlearning.ibm.com/skills/cybersecurity-fundamentals/#) | Badge | Free | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 
-### Code Repo
+### CI/CD
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | -- | -- | -- | Paid | --- |
+| Gitlab | Gitlab | GitLab Learn | [Link](https://about.gitlab.com/learn/)  | Multiple Courses | Paid Subscription | --- |
+| Github | GitHub | Github Foundations | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | Github Actions | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | GitHub | Github Advanced Security | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+| Github | GitHub | Github Administration | -- | [Link](https://resources.github.com/learn/certifications/) | Paid | --- |
+
+### QA
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages
+
+
+### Acessibility
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages 
+
 
 ### IT Fundamentals
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Free | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 
+## Development Languages
+
+| Subject / Technology | Provider | Title | Link | Type | Price | Languages |
+| -- | -- | -- | -- | -- | -- | -- |
+| Java | -- | -- | -- | -- | -- | -- |
+| Kotlin | -- | -- | -- | -- | -- | -- |
+| GoLang | -- | -- | -- | -- | -- | -- |
+| .NET | Microsoft | -- | -- | -- | -- | -- |
+| C# | Microsoft | -- | -- | -- | -- | -- |
+| ASP.NET | Microsoft | -- | -- | -- | -- | -- |
+| Ruby | -- | -- | -- | -- | -- | -- |
+| Javascript | -- | -- | -- | -- | -- | -- |
+| ReactJS | -- | -- | -- | -- | -- | -- |
+| React Native | -- | -- | -- | -- | -- | -- |
+| Angular | -- | -- | -- | -- | -- | -- |
 
 
 ## IT Methodologies
-
 
 ### Agile
 
@@ -63,7 +96,7 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| ITIL | ITIL Foundation | ITIL Foundationais V3 | -- | Certification | Paid | --- |
+| ITIL | ITIL Foundation | ITIL Foundations V3 | -- | Certification | Paid | --- |
 | TOGAF | The Open Group | TOGAF® 9 Certification | [Link](https://www.opengroup.org/togaf) | Certification | Paid | --- |
 
 
