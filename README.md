@@ -1,9 +1,5 @@
 # Collection-of-Certifications-Badges-and-Courses
 
-A curated list of free and paid certifications, badges and courses
-
-# Collection-of-Certifications-Badges-and-Courses
-
 Welcome to our curated collection of free and paid certifications, badges, and courses. This repository serves as a valuable resource for those on a quest for continuous learning and personal development.
 
 Here, you will find a variety of courses and certifications that will help you enhance your skills, learn new topics, and apply the concept of lifelong learning. We believe that learning is an ongoing process and that everyone should have access to quality educational resources.
