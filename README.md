@@ -1,5 +1,9 @@
 # Collection-of-Certifications-Badges-and-Courses
 
+![GitHub contributors](https://img.shields.io/github/contributors/mtdias/Collection-of-Certifications-Badges-and-Courses)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/mtdias/Collection-of-Certifications-Badges-and-Courses)
+[![Star on GitHub](https://img.shields.io/github/stars/mtdias/Collection-of-Certifications-Badges-and-Courses.svg?style=social)](https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses)
+
 Welcome to our curated collection of free and paid certifications, badges, and courses. This repository serves as a valuable resource for those on a quest for continuous learning and personal development.
 
 Here, you will find a variety of courses and certifications that will help you enhance your skills, learn new topics, and apply the concept of lifelong learning. We believe that learning is an ongoing process and that everyone should have access to quality educational resources.
