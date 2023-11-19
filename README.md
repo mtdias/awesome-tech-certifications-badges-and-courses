@@ -103,12 +103,12 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| General Content | PM3 | Product Management |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| General Content | PM3 | Product Discovery |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| General Content | PM3 | Product Analytics |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| General Content | PM3 | Product Marketing |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| General Content | PM3 | Product Growth |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| General Content | PM3 | Product Leadership | [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| General Content | PM3 | Product Management |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
+| General Content | PM3 | Product Discovery |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
+| General Content | PM3 | Product Analytics |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
+| General Content | PM3 | Product Marketing |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
+| General Content | PM3 | Product Growth |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
+| General Content | PM3 | Product Leadership | [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
 
 ### Design Thinking
 
@@ -123,8 +123,8 @@ A curated list of free and paid certifications, badges and courses
 | Miscellaneous | MIT Open Learning | [Link](https://openlearning.mit.edu/) | --- 
 | Miscellaneous | Stanford Online | [Link](https://online.stanford.edu/free-courses) | --- 
 | Technologies | IBM Skills Bud | [Link](https://skills.yourlearning.ibm.com/) | ---
-| Google | Google Training | -- | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
-| Technologies | Alura | [Link](https://www.alura.com.br/) | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> 
+| Google | Google Training | -- | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> 
+| Technologies | Alura | [Link](https://www.alura.com.br/) | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> 
 
 ## Business segments - Specific content
 
@@ -132,7 +132,7 @@ A curated list of free and paid certifications, badges and courses
 
 | Subject / Technology | Provider | Title | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| Brazilian Certification | ANBIMA | CPA-10 (Certificação Profissional ANBIMA Série 10) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-10.htm) | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
-| Brazilian Certification | ANBIMA | CPA-20 (Certificação Profissional ANBIMA Série 20) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-20.htm) | Certification | Paid | <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-png/br.png" width="20"/> |
+| Brazilian Certification | ANBIMA | CPA-10 (Certificação Profissional ANBIMA Série 10) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-10.htm) | Certification | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
+| Brazilian Certification | ANBIMA | CPA-20 (Certificação Profissional ANBIMA Série 20) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-20.htm) | Certification | Paid | <img src="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/images/country_flag_icons/pt.png" width="20"/> |
 
 
