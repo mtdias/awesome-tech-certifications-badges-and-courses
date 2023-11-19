@@ -8,7 +8,14 @@ Welcome to our curated collection of free and paid certifications, badges, and c
 
 Here, you will find a variety of courses and certifications that will help you enhance your skills, learn new topics, and apply the concept of lifelong learning. We believe that learning is an ongoing process and that everyone should have access to quality educational resources.
 
+## Contributors
+
 We invite you to explore the list, take advantage of the available resources, and contribute with your own findings. If you know of a course, certification, or badge that you believe would be beneficial to the community, feel free to submit your contributions. Together, we can create an amazing and useful learning repository for everyone.
+
+<a href="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mtdias/Collection-of-Certifications-Badges-and-Courses" />
+</a>
+
 
 ## Technologies 
 
