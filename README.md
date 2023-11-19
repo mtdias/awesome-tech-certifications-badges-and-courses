@@ -2,7 +2,13 @@
 
 A curated list of free and paid certifications, badges and courses
 
+# Collection-of-Certifications-Badges-and-Courses
 
+Welcome to our curated collection of free and paid certifications, badges, and courses. This repository serves as a valuable resource for those on a quest for continuous learning and personal development.
+
+Here, you will find a variety of courses and certifications that will help you enhance your skills, learn new topics, and apply the concept of lifelong learning. We believe that learning is an ongoing process and that everyone should have access to quality educational resources.
+
+We invite you to explore the list, take advantage of the available resources, and contribute with your own findings. If you know of a course, certification, or badge that you believe would be beneficial to the community, feel free to submit your contributions. Together, we can create an amazing and useful learning repository for everyone.
 
 ## Technologies 
 
@@ -17,13 +23,15 @@ A curated list of free and paid certifications, badges and courses
 | Google Cloud | Google | GCP Cloud Developer | [Link](https://cloud.google.com/certification/cloud-developer) | Certification | Paid |<img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Google Cloud | Google | GCP Cloud Security Engineer | [Link](https://cloud.google.com/certification/cloud-security-engineer) | Certification | Paid | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 
-### DATA and AI related content
+### General Data, Database, Machine Learning, AI and GenAI related contents
 
 | Subject | Provider | Description | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | Oracle Cloud Infrastructure (OCI) | Oracle | Oracle Cloud Infrastructure AI Foundations | [Link](https://mylearn.oracle.com/ou/course/oracle-cloud-infrastructure-ai-foundations/) | Certification | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Machine Learning | freeCodeCamp | Machine Learning with Python | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Artificial Intelligence | IBM | Artificial Intelligence Fundamentals | [Link](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| GenAI | Databricks | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| Databricks Lakehouse | Databricks | Databricks Accredited Lakehouse Platform Fundamentals | [Link](https://www.databricks.com/learn/certification/lakehouse-platform-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 
 ### Security
 
@@ -49,12 +57,13 @@ A curated list of free and paid certifications, badges and courses
 | JIRA | Atlassian | Multiple free courses | [Link](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&page=2) | Courses | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Confluence | Atlassian | Multiple free courses | [Link](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&page=2) | Courses | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 
-### Development Languages
+### Programming Languages
 
 | Subject | Provider | Description | Link | Type | Price | Languages |
 | -- | -- | -- | -- | -- | -- | -- |
 | Java | Oracle | Oracle Certified Professional, Java EE 7 Application Developer Certification | [Link](https://education.oracle.com/pt_BR/cat%C3%A1logo-de-produtos-outrackpath-trackp_900/trackp_900) | Certification | Paid | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | ReactJS | React | Multiple courses | [Link](https://legacy.reactjs.org/community/courses.html) | Courses | Free and Paid | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| C# | freeCodeCamp | Foundational C# with Microsoft | [Link](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 
 ## Methodologies
 
