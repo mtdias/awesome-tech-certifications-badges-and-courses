@@ -12,16 +12,11 @@ Here, you will find a variety of courses and certifications that will help you e
 
 ## Contributors
 
-We invite you to explore the list, take advantage of the available resources, and contribute with your own findings. If you know of a course, certification, or badge that you believe would be beneficial to the community, feel free to submit your contributions. Together, we can create an amazing and useful learning repository for everyone.
+We invite you to explore the list, take advantage of the available resources, and contribute with your own findings. If you know of a course, certification, or badge that you believe would be beneficial to the community, feel free to submit your contributions.
 
 ![GitHub contributors](https://img.shields.io/github/contributors/mtdias/Collection-of-Certifications-Badges-and-Courses)
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/mtdias/Collection-of-Certifications-Badges-and-Courses)
-
-<a href="https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mtdias/Collection-of-Certifications-Badges-and-Courses" />
-</a>
-
 
 ## Technologies 
 
