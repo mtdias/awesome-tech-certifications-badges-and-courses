@@ -126,15 +126,6 @@ We invite you to explore the list, take advantage of the available resources, an
 | Miscellaneous | Stanford Online | [Link](https://online.stanford.edu/free-courses) | <img src="templates/images/country_flag_icons/us.png" width="20"/> 
 | Technologies | IBM Skills Bud | [Link](https://skills.yourlearning.ibm.com/) | <img src="templates/images/country_flag_icons/us.png" width="20"/>
 | Google | Google | [Link](https://grow.google/) | <img src="templates/images/country_flag_icons/us.png" width="20"/> 
-| Technologies | Alura | [Link](https://www.alura.com.br/) | <img src="templates/images/country_flag_icons/br.png" width="20"/> 
-
-## Business segments - Specific content
-
-### Financial Services and Banking
-
-| Subject | Provider | Description | Link | Type | Price | Languages
-| --- | --- | --- | --- | --- | --- | --- |
-| Brazilian Certification | ANBIMA | CPA-10 (Certificação Profissional ANBIMA Série 10) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-10.htm) | Certification | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
-| Brazilian Certification | ANBIMA | CPA-20 (Certificação Profissional ANBIMA Série 20) | [Link](https://www.anbima.com.br/pt_br/educar/certificacoes/cpa-20.htm) | Certification | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Technologies | Alura | [Link](https://www.alura.com.br/) | <img src="templates/images/country_flag_icons/br.png" width="20"/>
 
 
