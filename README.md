@@ -1,4 +1,4 @@
-# Collection-of-Certifications-Badges-and-Courses
+# awesome-tech-certifications-badges-and-courses
 
 [![Star on GitHub](https://img.shields.io/github/stars/mtdias/Collection-of-Certifications-Badges-and-Courses.svg?style=social)](https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses)
 
