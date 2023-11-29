@@ -30,16 +30,22 @@ We invite you to explore the list, take advantage of the available resources, an
 | Google Cloud | Google | GCP Cloud Architect | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-2EC3A305F2C3) | Certification | Paid | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Google Cloud | Google | GCP Cloud Developer | [Link](https://cloud.google.com/certification/cloud-developer) | Certification | Paid |<img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Google Cloud | Google | GCP Cloud Security Engineer | [Link](https://cloud.google.com/certification/cloud-security-engineer) | Certification | Paid | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| AWS | Amazon | AWS Partner: Accreditation (Technical) | [Link](https://explore.skillbuilder.aws/learn/course/16469/aws-partner-generative-ai-on-aws-essentials-business) | Course + Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| AWS | Amazon | AWS Partner: Generative AI Essentials (Business) | [Link](https://explore.skillbuilder.aws/learn/course/13246/aws-partner-accreditation-technical-portuguese) | Course + Badge | Free for AWS partners | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| AWS | Amazon | AWS Knowledge: Cloud Essentials | [Link](https://explore.skillbuilder.aws/learn/course/15782/cloud-essentials-knowledge-badge-assessment) | Course + Badge | Free for AWS partners | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| AWS | Amazon | AWS Partner: Sales Accreditation (Business) | [Link](https://explore.skillbuilder.aws/learn/course/13258/aws-partner-sales-accreditation-business) | Course + Badge | Free for AWS partners | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 
 ### General Data, Database, Machine Learning, AI and GenAI related contents
 
 | Subject | Provider | Description | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
 | Oracle Cloud Infrastructure (OCI) | Oracle | Oracle Cloud Infrastructure AI Foundations | [Link](https://mylearn.oracle.com/ou/course/oracle-cloud-infrastructure-ai-foundations/) | Certification | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| Oracle Cloud Infrastructure (OCI) | Oracle | Oracle Cloud Data Management Foundations Associate | [Link](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-cloud-data-management-foundations-associate-2023/122101) | Certification | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Machine Learning | freeCodeCamp | Machine Learning with Python | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Artificial Intelligence | IBM | Artificial Intelligence Fundamentals | [Link](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | GenAI | Databricks | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Databricks Lakehouse | Databricks | Databricks Accredited Lakehouse Platform Fundamentals | [Link](https://www.databricks.com/learn/certification/lakehouse-platform-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+
 
 ### Security
 
@@ -64,6 +70,7 @@ We invite you to explore the list, take advantage of the available resources, an
 | IT Fundamentals | IBM | Information Technology Fundamentals | [Link](https://skills.yourlearning.ibm.com/activity/PLAN-3E2A749669E2?channelId=CNL_LCB_1668790383071) | Certification | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | JIRA | Atlassian | Multiple free courses | [Link](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&page=2) | Courses | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Confluence | Atlassian | Multiple free courses | [Link](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&page=2) | Courses | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| --- | IBM | --- | --- | --- | --- | --- |
 
 ### Programming Languages
 
@@ -111,12 +118,21 @@ We invite you to explore the list, take advantage of the available resources, an
 
 | Subject | Provider | Description | Link | Type | Price | Languages
 | --- | --- | --- | --- | --- | --- | --- |
-| General Content | PM3 | Product Management |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
-| General Content | PM3 | Product Discovery |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
-| General Content | PM3 | Product Analytics |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
-| General Content | PM3 | Product Marketing |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
-| General Content | PM3 | Product Growth |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
-| General Content | PM3 | Product Leadership | [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Product Management | PM3 | Product Management |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Product Management | PM3 | Product Discovery |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Product Management | PM3 | Product Analytics |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Product Management | PM3 | Product Marketing |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Product Management | PM3 | Product Growth |  [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Product Management | PM3 | Product Leadership | [Link](https://www.cursospm3.com.br/) | Course | Paid | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+
+### Design Thinking
+
+| Subject | Provider | Description | Link | Type | Price | Languages
+| --- | --- | --- | --- | --- | --- | --- |
+| Design Thinking | IBM | Enterprise Design Thinking Co-Creator | [Link](https://www.ibm.com/design/thinking/page/badges/core-skills) | Course + Badge | Free | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Design Thinking | IBM | Enterprise Design Thinking - Team Essentials for AI | [Link](https://www.ibm.com/design/thinking/page/badges/ai#AI_Essentials) | Course + Badge | Free | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+| Design Thinking | IBM | Enterprise Design Thinking Practitioner | [Link](https://www.ibm.com/design/thinking/page/badges/core-skills) | Course + Badge | Free | <img src="templates/images/country_flag_icons/br.png" width="20"/> |
+
 
 ## Platforms with multiple contents
 
