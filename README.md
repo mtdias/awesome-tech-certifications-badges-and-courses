@@ -45,7 +45,10 @@ We invite you to explore the list, take advantage of the available resources, an
 | Artificial Intelligence | IBM | Artificial Intelligence Fundamentals | [Link](https://www.ibm.com/training/badge/artificial-intelligence-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | GenAI | Databricks | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 | Databricks Lakehouse | Databricks | Databricks Accredited Lakehouse Platform Fundamentals | [Link](https://www.databricks.com/learn/certification/lakehouse-platform-fundamentals) | Badge | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
-
+| LangChain | DeepLearning.ai + LangChain | LangChain for LLM Application Development | [Link](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| Prompt Engineering | DeepLearning.ai + OpenAI | ChatGPT Prompt Engineering for Developers | [Link](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| Finetuning | DeepLearning.ai + OpenAI | Finetuning Large Language Models | [Link](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
+| OpenAI | DeepLearning.ai + OpenAI | Building Systems with the ChatGPT API | [Link](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) | Course | Free | <img src="templates/images/country_flag_icons/us.png" width="20"/> |
 
 ### Security
 
